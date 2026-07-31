@@ -7,4 +7,5 @@
 ## Pin to gpiod mapping
 
 3. to 36
+4. 
 ![gpiopins](gpioJ2.png)

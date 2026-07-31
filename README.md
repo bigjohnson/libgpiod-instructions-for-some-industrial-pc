@@ -34,5 +34,5 @@ gpiochip0 - 48 lines:
         line  46:      unnamed       unused   input  active-high
         line  47:      unnamed       unused   input  active-high        
 ```
-10. Power on pin 3 **sudo gpioset --mode=exit gpiochip0 36=1**
-11. Power off pin 3 **sudo gpioset --mode=exit gpiochip0 36=0**
+10. Power on pin 3 of Nexcom NISE 3640E **sudo gpioset --mode=exit gpiochip0 36=1**
+11. Power off pin 3 of Nexcom NISE 3640E **sudo gpioset --mode=exit gpiochip0 36=0**

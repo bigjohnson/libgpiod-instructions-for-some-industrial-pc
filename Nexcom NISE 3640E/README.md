@@ -1,3 +1,3 @@
 
 
-[mainboard](mainboard.png)
+![mainboard](mainboard.png)

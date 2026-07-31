@@ -12,7 +12,9 @@
 7. Look the linux messages **dmesg**
 
 [   80.339638] gpio_it87: loading out-of-tree module taints kernel.
+
 [   80.339666] gpio_it87: module verification failed: signature and/or required key missing - tainting kernel
+
 [   80.340088] gpio_it87: Found Chip IT8783 rev 0. 48 GPIO lines starting at 0a00h
 
 8. pippo

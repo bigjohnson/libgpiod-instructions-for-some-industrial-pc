@@ -36,5 +36,5 @@ gpiochip0 - 48 lines:
 ```
 10. Power on pin 3 of Nexcom NISE 3640E **sudo gpioset --mode=exit gpiochip0 36=1**
 11. Power off pin 3 of Nexcom NISE 3640E **sudo gpioset --mode=exit gpiochip0 36=0**
-12. See the the industrial pc models folde for all gpio mapping info.
+12. See the the industrial pc models folders for all gpio mapping info.
 

@@ -4,8 +4,22 @@
 
 ## The gpio connector is JP2
 ![mainboard](mainboard.png)
-## Pin to gpiod mapping
+## connector pin to gpiod mapping
 
-3. to 36
-4. 
+# 3 to 36
+
+# 4 to 32
+
+# 5 to 37
+
+# 6 to 33
+
+# 7 to 38
+
+# 8 to 34
+
+# 9 to 39
+
+# 10 to 35
+
 ![gpiopins](gpioJ2.png)

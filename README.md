@@ -26,4 +26,13 @@ gpiochip0 - 48 lines:
         line   1:      unnamed       unused   input  active-high
         line   2:      unnamed       unused   input  active-high
         line   3:      unnamed       unused   input  active-high
+        ...
+        line  42:      unnamed       unused   input  active-high
+        line  43:      unnamed       unused   input  active-high
+        line  44:      unnamed       unused   input  active-high
+        line  45:      unnamed       unused   input  active-high
+        line  46:      unnamed       unused   input  active-high
+        line  47:      unnamed       unused   input  active-high        
 ```
+10. Power on pin 3 **sudo gpioset --mode=exit gpiochip0 36=1**
+11. Power off pin 3 **sudo gpioset --mode=exit gpiochip0 36=0**

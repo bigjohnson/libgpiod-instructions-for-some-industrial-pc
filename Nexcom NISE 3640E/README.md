@@ -6,5 +6,5 @@
 ![mainboard](mainboard.png)
 ## Pin to gpiod mapping
 
-# 3. to 36
+3. to 36
 ![gpiopins](gpioJ2.png)

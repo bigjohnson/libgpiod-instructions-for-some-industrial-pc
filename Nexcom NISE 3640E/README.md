@@ -6,20 +6,20 @@
 ![mainboard](mainboard.png)
 ## connector pin to gpiod mapping
 
-# 3 to 36
+### 3 to 36
 
-# 4 to 32
+### 4 to 32
 
-# 5 to 37
+### 5 to 37
 
-# 6 to 33
+### 6 to 33
 
-# 7 to 38
+### 7 to 38
 
-# 8 to 34
+### 8 to 34
 
-# 9 to 39
+### 9 to 39
 
-# 10 to 35
+### 10 to 35
 
 ![gpiopins](gpioJ2.png)

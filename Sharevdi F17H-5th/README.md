@@ -25,4 +25,4 @@
 ### 19 to 3.3 volt
 ### 20 to 3.3 volt
 ## Board images
-![Board mage](https://github.com/bigjohnson/libgpiod-instructions-for-some-industrial-pc/edit/main/Sharevdi%20F17H-5th/scheda_smal.JPG)
+([https://github.com/bigjohnson/libgpiod-instructions-for-some-industrial-pc/edit/main/Sharevdi%20F17H-5th/scheda_smal.JPG](https://raw.githubusercontent.com/bigjohnson/libgpiod-instructions-for-some-industrial-pc/refs/heads/main/Sharevdi%20F17H-5th/scheda_smal.JPG))

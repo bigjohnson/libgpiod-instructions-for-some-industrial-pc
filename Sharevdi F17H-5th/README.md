@@ -26,3 +26,4 @@
 ### 20 to 3.3 volt
 ## Board images
 ![scheda small](https://raw.githubusercontent.com/bigjohnson/libgpiod-instructions-for-some-industrial-pc/refs/heads/main/Sharevdi%20F17H-5th/scheda_smal.JPG)
+![GIPO](https://raw.githubusercontent.com/bigjohnson/libgpiod-instructions-for-some-industrial-pc/refs/heads/main/Sharevdi%20F17H-5th/gpio.JPG)

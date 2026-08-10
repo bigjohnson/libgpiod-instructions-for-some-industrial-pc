@@ -3,7 +3,7 @@
 ## The gpio connector is PCIE-GPIO
 ## 3.3 volts level
 ## The board has no manual with pinout info, I use gpiochip.sh to try with multimeter each pin.
-## Connector mapping
+## 20 pin connector mapping:
 ### 1 to GND
 ### 2 to GPIO 63
 ### 3 to GND

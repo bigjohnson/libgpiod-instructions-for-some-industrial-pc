@@ -20,4 +20,7 @@
 ### 14 to GPIO 57
 ### 15 to GND
 ### 16 to GPIO 56
-### 17 to GND
+### 17 to 3.3 volt
+### 18 to 3.3 volt
+### 19 to 3.3 volt
+### 20 to 3.3 volt

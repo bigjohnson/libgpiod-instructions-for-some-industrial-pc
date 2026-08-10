@@ -2,4 +2,4 @@
 ## The gpio chip is a IT8785E Super I/O chip, no chip datasheet found, I use a modified driver version with same configuration of IT8786E
 ## The gpio connector is PCIE-GPIO
 ## 3.3 volts level
-## The board has no manual with pinout info, I try with multimeter each pin.
+## The board has no manual with pinout info, I use gpiochip.sh to try with multimeter each pin.

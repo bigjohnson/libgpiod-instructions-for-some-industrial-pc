@@ -3,7 +3,7 @@
 LSMOD=$(lsmod)
 if [[ ${LSMOD} == *"gpio_it87"* ]]
 then
-        for i in {0..64}
+        for i in {0..63}
         do
                 gpioset gpiochip0 ${i}=1
         done

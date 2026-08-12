@@ -30,4 +30,4 @@
 
 ### pin 12 to GND
 
-![gpiopins](gpioJ2.png)
+![gpiopins](gpioJP3.png)

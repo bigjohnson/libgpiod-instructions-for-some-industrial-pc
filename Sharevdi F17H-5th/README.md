@@ -1,7 +1,6 @@
 # Gpio configuration for Sharevdi F17H-5th industrial PC
 ## The gpio chip is a IT8785E Super I/O chip, no chip datasheet found, I use a [modified driver](https://github.com/bigjohnson/moxa-it87-gpio-driver) version with same configuration of IT8786E
-## The gpio connector is PCIE-GPIO 2mm 20 pin.
-## 3.3 volts level
+## The gpio connector is PCIE-GPIO 2.00 mm 20 pin 3.3 volts level.
 ## The board has no manual with pinout info, I use gpiochip.sh to try with multimeter each pin.
 ## 20 pin connector mapping:
 ### 1 to GND

@@ -2,7 +2,7 @@
 
 ## The gpio chip is a IT8783E Super I/O chip
 
-## The gpio connector is JP2 2mm 5 volts level
+## The gpio connector is JP2 2.00 mm 5 volts level
 ![mainboard](mainboard.png)
 ## connector pin to gpiod mapping
 

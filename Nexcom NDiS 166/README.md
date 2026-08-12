@@ -2,9 +2,7 @@
 
 ## The gpio chip is a IT8728 Super I/O chip
 
-## The gpio connector is JP3 2.54 mm
-
-## 3.3 volts level
+## The gpio connector is JP3 2.54 mm 3.3 volts level
 ![mainboard](mainboard.png)
 ## connector pin to gpiod mapping
 
